@@ -17,6 +17,7 @@ Developed with React.
 ## Backend:
 
 Backend code diagram: https://drive.google.com/file/d/1248sPO6l15aH9DUThKUid0rou1Ni1qTk/view?usp=sharing
+![image txt](https://github.com/haijing-zhang/Cloud-APP-Purchase_Platform/blob/main/codediagram2.png)
 
 Backend part is written in Go language and directly developed on GCE remote service.
 
